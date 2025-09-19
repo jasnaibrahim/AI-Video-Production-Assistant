@@ -167,25 +167,6 @@ Generate complete video production package
 2. **Frontend**: Extend UI in `streamlit_app.py`
 3. **AI Logic**: Enhance prompts and generation functions
 
-## 🎬 Demo Video
-
-Create a 3-5 minute demo showing:
-1. **Input**: Simple video idea entry
-2. **Generation**: AI creating complete production package
-3. **Output**: Comprehensive production materials
-4. **Value**: How this saves creators time and improves quality
-
-## 🏅 Why This Wins
-
-### Jury's Pick Criteria
-- **Technical Merit**: Advanced AI integration with production-quality outputs
-- **Creativity**: Novel approach to video production planning
-- **Impact**: Solves real pain points for millions of content creators
-
-### Community Choice Appeal
-- **Immediate Value**: Anyone can use it right away
-- **Visual Impact**: Rich, comprehensive outputs that look professional
-- **Broad Appeal**: Useful for creators across all platforms and niches
 
 ## 🚀 Future Enhancements
 
