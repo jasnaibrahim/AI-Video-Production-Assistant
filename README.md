@@ -22,7 +22,6 @@ Input a simple video idea and get a **complete professional production package**
 - **🎵 Curated Music Suggestions** - Platform-specific audio recommendations
 - **🖼️ Viral Thumbnail Concepts** - Eye-catching thumbnail ideas that drive clicks
 - **📱 Platform-Optimized Strategy** - Optimal timing, hashtags, and engagement tactics
-- **📊 AI-Powered Engagement Predictions** - Expected views, likes, shares, and retention rates
 
 ## 🎯 Perfect For
 
