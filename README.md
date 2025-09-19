@@ -157,9 +157,6 @@ Generate complete video production package
 ├── requirements.txt    # Python dependencies
 ├── .env               # Environment variables (OpenAI API key)
 ├── README.md          # Project documentation
-├── DEMO_SCRIPT.md     # 3-5 minute demo video script
-├── linkedin_post.md   # LinkedIn post for sharing
-└── hashnode_blog.md   # Technical blog post
 ```
 
 ### Adding New Features
